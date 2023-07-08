@@ -3,7 +3,7 @@ package top.ctynt.day4;
 /**
  * @Author ctynt
  * @Date 2023/7/7
- * @Description
+ * @Description 二进制求和
  */
 
 public class AddBinary {
