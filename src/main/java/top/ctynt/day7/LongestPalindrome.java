@@ -3,7 +3,7 @@ package top.ctynt.day7;
 /**
  * @Author ctynt
  * @Date 2023/7/11
- * @Description
+ * @Description 最长回文子串
  */
 
 public class LongestPalindrome {

@@ -3,7 +3,7 @@ package top.ctynt.day1;
 /**
  * @Author ctynt
  * @Date 2023/7/3
- * @Description
+ * @Description 两数之和
  */
 
 public class TwoSum {
